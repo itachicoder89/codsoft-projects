@@ -50,7 +50,7 @@ public class EncouragingNumberGuessingGame {
         String[] encouragementMessages = {
             "You're getting closer!",
             "Keep going, you're doing great!",
-            "Don't give up, the answer is close!",
+             "Don't give up, the answer is close!",
             "You can do it! Try again.",
             "You're making progress!"
         };
